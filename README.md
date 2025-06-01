@@ -1,1 +1,1 @@
-this is smart prepaid toll tax system which is developed to ease the travel journey , reduce time wastage at toll plaza in long queue wait for our chance this system solve all the problem in one go 
+This is SMART TOLL TAX (prepaid) system which is developed to ease the travel journey , reduce time wastage at toll plaza in long queue wait for our chance this system solve all the problem in one go 
